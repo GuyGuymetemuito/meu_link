@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meu Linktree</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgy1fRTpr_CFIYGrZwVxiZ5MCukHCo9dRrQw&sF%2Fx.com%2FLusca_Caralho%2Fstatus%2F1329605833924222980&psig=AOvVaw345ndRki6VasmExYyEspCK&ust=1746102260092000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODNtYDg_4wDFQAAAAAdAAAAABAJ">
+        <h1>Guyzinn Mete Rebolando</h1>
+        <a href="http://www.youtube.com.br">YouTube</a>
+        <a href="http://www.instagram.com">Instagram</a>
+        <a href="http://wa.me/foobar">WhatsApp</a>
+
+        <footer>
+            Criado por @guysc1510
+        </footer>
+    </div>
+</body>
+</html>
